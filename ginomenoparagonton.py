@@ -1,5 +1,5 @@
 N = int(input("Dose enan akeraio arithmo:"))
-while N >= 100000:
+while N >= 1000000:
   print ("lathos kataxorisi dokimase ksana")
   N = int(input("Dose ksana enan akeraio arithmo:"))
 
