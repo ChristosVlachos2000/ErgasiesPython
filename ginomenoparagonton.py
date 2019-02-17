@@ -14,6 +14,6 @@ while ginomeno != N:
     ypoloipo = ypoloipo/i
     dynami = dynami + 1
   if dynami > 0:
-      print (i , "**" , dynami ,)
+      print ("(",i , "**" , dynami ,end="" ")")
       ginomeno = ginomeno*i**dynami
        
